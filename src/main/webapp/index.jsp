@@ -24,7 +24,7 @@
 	<div><data-hello/></div>
 	<div data-ng-controller="ErrorController">
 		<div>Name:</div>
-		<input type="text" data-ng-model="newcontact" />
+		<input type="text" data-ng-model="newName" />
 		<div>
 			<button data-ng-click="add()">Add</button>
 		</div>
